@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RSSI</string>
+    <string name="export_csv">Export CSV</string>
+    <string name="Stop">Stop</string>
+    <string name="getRSSI">Get RSSI</string>
+    <string name="simulation">Simulation</string>
+    <string name="rssi_real_time">RSSI Real Time</string>
+    <string name="back_real_time">Back real time</string>
+    <string name="get_rssi">Get RSSI</string>
+    <string name="go_simulation">Simulation</string>
+    <string name="rssi_simulation">RSSI Simulation</string>
+    <string name="btn_export_csv">Export CSV</string>
+</resources>
